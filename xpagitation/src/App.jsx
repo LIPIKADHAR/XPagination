@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import './App.css'
-import Pagination from './Components/Pagination';
+import Pagination from './components/pagination';
 
 function App() {
   //const [count, setCount] = useState(0)
