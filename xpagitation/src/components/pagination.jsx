@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import './Pagination.css';
+import './pagination.css';
 
 function Pagination({totalRows, rowsPerPage,currentPage, setCurrentPage}) {
     let pages = [];
